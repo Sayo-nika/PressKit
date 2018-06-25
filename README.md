@@ -1,10 +1,25 @@
 # The Sayonika Press Kit
-The Sayonika Press Kit, maintained by @sr229 with Cyrke.
+The Sayonika Press Kit, maintained by @sr229 and Cyrke.
 
 ## About the Press Kit
 
 The press kit's aim is for you to use the standard colour ranges, usages of the logo, and Mascot assets optimally. 
 These were created to familiarise you on the acceptable color range we use on our website designs and promotional content.
+
+## Disclaimer
+
+Doki Doki: Literature Club!, logo, and artworks are Copyright Team Salvato. All Rights Reserved.
+
+Noto Sans CJK is a font by Google Inc. Released under the SIL Open Font License.
+
+Always in My Heart is Copyright Vanessa Bays, under the personal license of sr229.
+
+The press kit is brought to you by the following:
+
+- [sr229](https://github.com/sr229) (Designer)
+- Cyrke (Discord: Cyrke#8043) (Mascot design)
+
+If you have any questions, please contact the following persons.
 
 ## Logo
 
