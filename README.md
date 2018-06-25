@@ -33,7 +33,10 @@ We only use the following in our content:
 
 ## Mascot
 
+![Chibi](https://cdn.discordapp.com/attachments/373669252554686464/458045399563763775/sayonika.png)
+
 ![Sayonika](sayonika_full_body.png)
+
 
 The Sayonika mascot is a mixture of Monika and Sayori, with a blue-green eye pallette and a combination of Sayori's hair color with Monika's hair style. The ribbon is red with white stripes on the ends.
 
