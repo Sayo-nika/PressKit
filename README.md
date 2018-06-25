@@ -19,15 +19,6 @@ Logo uses [Always in my Heart](https://www.dafont.com/always-in-my-heart.font), 
 These are the prescribed color ranges we use on Sayonika.
 We use three shades of red accordingly, depending on the use case.
 
-## Mascot
-
-![Sayonika](sayonika_full_body.png)
-
-The Sayonika mascot is a mixture of Monika and Sayori, with a blue-green eye pallette and a combination of Sayori's hair color with Monika's hair style. The ribbon is red with white stripes on the ends.
-
-This mascot and its two more variants is free for you to use under Creative Commons 3.0 Non Commercial.
-
-
 ## Font
 
 ![Font](PrescribedFont.png)
@@ -39,4 +30,14 @@ We only use the following in our content:
 - Demilight
 - Light
 - Regular
+
+## Mascot
+
+![Sayonika](sayonika_full_body.png)
+
+The Sayonika mascot is a mixture of Monika and Sayori, with a blue-green eye pallette and a combination of Sayori's hair color with Monika's hair style. The ribbon is red with white stripes on the ends.
+
+This mascot and its two more variants is free for you to use under Creative Commons 3.0 Non Commercial.
+
+
 
