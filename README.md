@@ -17,7 +17,7 @@ Always in My Heart is Copyright Vanessa Bays, under the personal license of sr22
 The press kit is brought to you by the following:
 
 - [sr229](https://github.com/sr229) (Designer)
-- Cyrke (https://reddit.com/u/Cyrke_) (Mascot design)
+- [Cyrke](https://reddit.com/u/Cyrke_) (Mascot design)
 
 If you have any questions, please contact the following persons.
 
