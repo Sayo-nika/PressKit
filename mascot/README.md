@@ -15,4 +15,10 @@ Please review `LICENSE` at the root of this repository for applicable usage of t
 
 For legal concerns, please consult Enra via email provided.
 
+## Where to find the Sprites
+
+VN-usable sprites are at `expressions/` and `sprites/`. 
+
+For some  of our mascot that doesn't fit for VN usage and mostly for promotional usage is at `etc/`.
+
 ![Sayonika](https://raw.githubusercontent.com/Sayo-nika/Press/master/mascot/sprites/3h.png)
