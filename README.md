@@ -12,12 +12,12 @@ Doki Doki: Literature Club!, logo, and artworks are Copyright Team Salvato. All 
 
 Noto Sans CJK is a font by Google Inc. Released under the SIL Open Font License.
 
-Always in My Heart is Copyright Vanessa Bays, under the personal license of sr229.
+Sayonika Mascot design, VN Sprites, Sayonika Logo, and the Font face is licensed under Creative Commons 3.0 Non-Commercial-Unported under:
 
-The press kit is brought to you by the following:
-
-- [sr229](https://github.com/sr229) (Designer)
-- [Cyrke](https://reddit.com/u/Cyrke_) (Mascot design)
+- The Sayonika Project Authors
+  - [@sr229 (enra@headbow.stream)](https://github.com/sr229)
+  - [@Ovyerus (iamovyerus@gmail.com)](https://github.com/Ovyerus)
+- [Cyrke](https://reddit.com/u/Cyrke_)
 
 If you have any questions, please contact the following persons.
 
@@ -48,14 +48,15 @@ We only use the following in our content:
 
 ## Mascot
 
-![Chibi](https://cdn.discordapp.com/attachments/373669252554686464/458045399563763775/sayonika.png)
-
-![Sayonika](sayonika_full_body.png)
-
-
 The Sayonika mascot is a mixture of Monika and Sayori, with a blue-green eye pallette and a combination of Sayori's hair color with Monika's hair style. The ribbon is red with white stripes on the ends.
 
-This mascot and its two more variants is free for you to use under Creative Commons 3.0 Non Commercial.
+You can find the full set of the  mascot sprites for VN usage or whatever purpose in `mascot/`.
+
+
+
+![Chibi](mascot/sprites/chibi.png)
+
+![Sayonika](mascot/etc/sayonika_full_body.png)
 
 
 
