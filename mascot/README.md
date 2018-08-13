@@ -22,6 +22,6 @@ VN-usable sprites are at `expressions/` and `sprites/`.
 
 For some  of our mascot that doesn't fit for VN usage and mostly for promotional usage is at `etc/`.
 
-Keep in mind the `sayonika_nuxill_ver.png` asset is only included for hisotrical purposes and not really used anywhere.
+Keep in mind the `sayonika_nuxill_ver.png` asset is only included for historical purposes and not really used anywhere.
 
 ![Sayonika](https://raw.githubusercontent.com/Sayo-nika/Press/master/mascot/sprites/3h.png)
