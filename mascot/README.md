@@ -10,8 +10,7 @@ The following work is licensed under Creative Commons 3.0 Non-Commercial-Unporte
   - [@sr229 (enra@headbow.stream)](https://github.com/sr229)
   - [@Ovyerus (iamovyerus@gmail.com)](https://github.com/Ovyerus)
 - [Cyrke](https://reddit.com/u/Cyrke_)
-- [Nuxill](https://reddit.com/u/its_nuxill) (Only for the `sayonika_nuxill_ver.png`)
-
+- [Nuxill](https://reddit.com/u/its_nuxill)
 Please review `LICENSE` at the root of this repository for applicable usage of this sprites.
 
 For legal concerns, please consult Enra via email provided.
