@@ -25,7 +25,7 @@ If you have any questions, please contact the following persons.
 
 ![Logo](SayonikaLogoColorGuides.png)
 
-Logo uses [Coffee & Tea](https://www.dafont.com/coffe-tea.font), and only comes with the red and white versions.
+Logo uses [Coffee & Tea](https://www.dafont.com/coffee-tea.font), and only comes with the red and white versions.
 
 ## Colour pallettes
 
