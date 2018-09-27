@@ -54,7 +54,7 @@ You can find the full set of the  mascot sprites for VN usage or whatever purpos
 
 
 
-![Chibi](mascot/sprites/chibi.png)
+![Chibi](mascot/etc/chibi.png)
 
 ![Sayonika](mascot/etc/sayonika_full_body.png)
 
