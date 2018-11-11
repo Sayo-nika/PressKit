@@ -7,7 +7,7 @@ This folder contains the Sayonika Mascot designs and VN-usable sprites for your 
 The following work is licensed under Creative Commons 3.0 Non-Commercial-Unported under:
 
 - The Sayonika Project Authors
-  - [@sr229 (enra@headbow.stream)](https://github.com/sr229)
+  - [@sr229 (enra@sayonika.moe)](https://github.com/sr229)
   - [@Ovyerus (iamovyerus@gmail.com)](https://github.com/Ovyerus)
 - [Cyrke](https://reddit.com/u/Cyrke_)
 - [Nuxill](https://reddit.com/u/its_nuxill)
