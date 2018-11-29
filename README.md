@@ -12,7 +12,7 @@ Doki Doki: Literature Club!, logo, and artworks are Copyright Team Salvato. All 
 
 Noto Sans CJK is a font by Google Inc. Released under the SIL Open Font License.
 
-Sayonika Mascot design, VN Sprites, Sayonika Logo, and the Font face is licensed under Creative Commons 3.0 Non-Commercial-Unported under:
+Sayonika Mascot design, VN Sprites, Sayonika Logo, and the Font face is licensed under Creative Commons 4.0 Attribution-ShareAlike-Noncommercial under:
 
 - The Sayonika Project Authors
   - [@sr229 (enra@headbow.stream)](https://github.com/sr229)
