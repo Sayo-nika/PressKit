@@ -4,7 +4,7 @@ This folder contains the Sayonika Mascot designs and VN-usable sprites for your 
 
 ## License
 
-The following work is licensed under Creative Commons 4.0 Attribution-ShareAlike-Noncommercial under:
+The following work is licensed under Creative Commons 4.0 Attribution-Noncommercial under:
 
 - The Sayonika Project Authors
   - [@sr229 (enra@sayonika.moe)](https://github.com/sr229)
