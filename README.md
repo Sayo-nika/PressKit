@@ -1,3 +1,5 @@
+# THIS PROJECT HAS BEEN ARCHIVED AND IS NO LONGER MAINTAINED.
+
 # The Sayonika Press Kit
 The Sayonika Press Kit, maintained by @sr229 and Cyrke.
 
